@@ -1,2 +1,0 @@
-hey hello world
-this is 1st class & we are learning git
